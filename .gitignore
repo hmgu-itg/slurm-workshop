@@ -2,7 +2,9 @@
 .gz
 
 # Data
-/sbatch_array_example/data
+/sbatch_array_example/VSS-chr1-22.*
+/sbatch_array_example/chr.*
 
-# output folder
+# Data output folder
 /sbatch_array_example/output
+
