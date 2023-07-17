@@ -1,5 +1,8 @@
 # Large files
 .gz
 
+# Data
+/sbatch_array_example/data
+
 # output folder
 /sbatch_array_example/output
