@@ -5,4 +5,4 @@
 
 #srun -p cpu_p -q cpu_normal  --time=1-0:0:0 --mem=5G --pty /bin/bash
 
-srun -p interactive_cpu_p -q interactive_cpu --time=0-10:0:0 --mem=15G --pty /bin/ba
+srun -p interactive_cpu_p -q interactive_cpu --time=0-10:0:0 --mem=10G --pty /bin/bash
